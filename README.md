@@ -16,8 +16,7 @@ Use to be a competative jumping horseback rider for 6 years.
 
 ## Skills
 - Programming Languages: [Python, SQL, R]
-- Web Development: [List relevant technologies]
-- Database Management: [List relevant databases]
+- Tools and Technologies: [Jupyter, Google Collab, NiFi, PowerBI, Tableau]
 - Other: [Stata]
 
 ## Contact
