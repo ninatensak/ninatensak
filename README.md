@@ -9,7 +9,7 @@ My background in Economics and Politics has provided me with a strong foundation
 
 - 📈 **career interests:** Data Science/ Business Analytics roles
 - 💡 **fun fact:** Competative golfer, passionate about the solar energy industry
-- 
+
 ## Education
 - **Master in Business Analytics and Big Data**
   - IE Univeristy, class of 2024
