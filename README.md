@@ -6,6 +6,7 @@
 
 ## About Me
 I am a current student of Masters of Business Analytics and Big Data at IE University in Madrid. I am new to the world of coding and learning it at a rapid pace. I have a background in Economics and Politics and have a great interest for the renewable energy sector. 
+Use to be a competative jumping horseback rider for 6 years.
 
 ## Education
 - **Bachelor Degree in Economics and Politics**
