@@ -14,7 +14,30 @@ Fun Fact: Use to be a competative jumping horseback rider for 6 years.
   - XV Gimnazija, Class of 2019
 
 ## Skills
-- Programming Languages: [Python, SQL, R]
+- Programming Languages: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Languages</title>
+    <style>
+        /* Define the light green color */
+        .light-green-text {
+            color: #7FFF7F; /* You can adjust the hex code for the desired shade of light green */
+        }
+    </style>
+</head>
+<body>
+    <p>Programming Languages:</p>
+    <ul>
+        <!-- Apply the light green color to the specified languages -->
+        <li class="light-green-text">SQL</li>
+        <li class="light-green-text">Python</li>
+        <li class="light-green-text">R</li>
+    </ul>
+</body>
+</html>
+
 - Tools and Technologies: [Jupyter, Google Collab, NiFi, PowerBI, Tableau]
 - Other: [Stata]
 
