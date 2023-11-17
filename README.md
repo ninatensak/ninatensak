@@ -3,6 +3,10 @@
 **ninatensak/ninatensak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Nina Tensak
 
+## Contact
+- LinkedIn: www.linkedin.com/in/ninatensak
+- Email: ninatensak@gmail.com
+  
 ## About Me
 I am a current student of Masters of Business Analytics and Big Data at IE University in Madrid. I am new to the world of coding and learning it at a rapid pace. I have a background in Economics and Politics and have a great interest for the renewable energy sector. 
 Fun Fact: Use to be a competative jumping horseback rider for 6 years.
@@ -29,14 +33,8 @@ Fun Fact: Use to be a competative jumping horseback rider for 6 years.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-### Tools and Technologies:
-🚀 Jupyter, Google Collab, NiFi, PowerBI, Tableau
+🚀 , Google Collab, NiFi, 
 
 ### Other:
 📊 Stata
-
-
-## Contact
-- LinkedIn: www.linkedin.com/in/ninatensak
-- Email: ninatensak@gmail.com
 
