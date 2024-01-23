@@ -27,6 +27,7 @@ My background in Economics and Politics has provided me with a strong foundation
 ### 🚀Frameworks and Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ### 🚀Tools and Technologies
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -48,7 +49,8 @@ My background in Economics and Politics has provided me with a strong foundation
 
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 🤝 Excited to explore data analytics' potential! Let’s connect and collaborate!
 
