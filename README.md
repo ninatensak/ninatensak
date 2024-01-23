@@ -1,14 +1,14 @@
-# Hi 👋 I'm Nina Tensak! 🌸
+# Hi 👋 I'm Nina Tensak! 
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/ninatensak
 - Email: ninatensak@gmail.com
   
 ## About Me
-My background in Economics and Politics has provided me with a strong foundation in problem-solving, business knowledge, and analytical skills. These skills are directly transferable to the realm of business analytics, where understanding complex systems and identifying patterns are crucial. Even though I am new to the world of coding, I feel comfortable with my knowledge that is rapidly growing. Additionally, my experience in analytical operations and executing mathematical processes to predict political decision has prepared my analytical and strategic thinking abilities, which are essential for a business analyst.
+My background in Economics and Politics has provided me with a strong foundation in problem-solving, business knowledge, and analytical skills. These skills are directly transferable to the realm of data science, where understanding complex systems and identifying patterns are crucial. Even though I am new to the world of coding, I feel comfortable with my knowledge that is rapidly growing. Additionally, my experience in analytical operations and executing mathematical processes to predict political decision has prepared my analytical and strategic thinking abilities, which are essential for data science.
 
-- 📈 **career interests:** Data Science/ Business Analytics roles
-- 💡 **fun fact:** Competative golfer, passionate about the solar energy industry
+- 📈 **career interests:** Data Science/Business Intelligence roles
+- 💡 **fun fact:** Competative golfer, passionate about the renewable energy industry
 
 ## Education
 - **Master in Business Analytics and Big Data**
@@ -16,7 +16,7 @@ My background in Economics and Politics has provided me with a strong foundation
 - **Bachelor Degree in Economics and Politics**
   - Bocconi Univeristy, class of 2022
 - **IB Diploma**
-  - XV Gimnazija, Class of 2019
+  - Mathematics and Informatics Center, Class of 2019
 
 ## 🛠️ Skills and Technologies
 
